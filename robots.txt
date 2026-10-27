@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juliapeterson1023-creator.github.io/iowa-city-study-coffee/sitemap.xml
