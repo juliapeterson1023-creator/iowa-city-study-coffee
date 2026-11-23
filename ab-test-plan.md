@@ -46,3 +46,29 @@ I will retain the committed plan, assignment list, screenshots, page versions, p
 Before launch, I will publish Version B with a noindex tag and exclude it from the sitemap.
 
 AI responses can help compare reactions under a controlled prompt, but they cannot establish how real students will behave.
+## Revision for Experiment 2 — November 23, 2026
+
+### Reason for revision
+After feedback that the original headlines were too similar, I revised Version B to create a clearer difference. The first experiment produced 0 Yes responses out of 50 trials in each version. I will retain those results and report the second experiment separately.
+
+### Headlines
+Version A: “Coffee shops to study in Iowa City”
+
+Version B: “Stop Searching. Start Studying. Find a Café That Fits Your Study Style.”
+
+The main homepage headline is the single element being tested.
+
+### Revised hypothesis
+Version B will produce a higher percentage of Yes responses because it emphasizes the benefit of finding a café suited to the visitor’s study needs and uses action-oriented language.
+
+### Second experiment procedure
+I will use the same model, settings, persona, fixed question, and full-page-text presentation specified above. Prompt B will contain the revised headline.
+
+Before collecting new responses, I will save a newly randomized order containing 50 A assignments and 50 B assignments. Each trial will use a fresh conversation.
+
+I will complete 100 new trials, 50 per version, regardless of preliminary results. I expect to finish by November 27, 2026.
+
+### Outcome and analysis
+I will record Yes as 1 and No as 0, retain every output, and follow the original plan’s procedure for unclear responses and technical failures.
+
+I will compare the Yes percentages and calculate the difference in percentage points, B minus A. I will use a two-sided Fisher’s exact test at a significance level of 0.05. A higher Yes rate for B with p < 0.05 will support the revised hypothesis.
